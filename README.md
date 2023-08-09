@@ -199,7 +199,6 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 <div align=center>
-  <a href="https://lichess.org/@/Austinae"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" /></a>
   <a href="mailto:opjuanp60@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
   
 </div>
